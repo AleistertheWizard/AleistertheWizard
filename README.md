@@ -1,6 +1,12 @@
 <h1 align="center">Hello 👋, I'm Rishil</h1>
 <h3 align="center">Learning to make some magic!</h3>
 
+- 🔭 I’m currently working on **honing my craft and expanding my expertise to master new technologies and methodologies. 🌱**
+
+- 🌱 I’m currently learning **Python, Blender, C**
+
+- 👯 I’m looking to collaborate on **projects to expand my skillset.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
