@@ -1,5 +1,8 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour+Convergence&pause=1000&color=F7B1B3&background=84F2FF00&center=true&vCenter=true&multiline=true&width=435&lines=Hello%2C+I+am+Rishil.;Learning+to+make+some+magic!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour+Convergence&pause=1000&color=F7B1B3&background=84F2FF00&center=true&vCenter=true&multiline=true&width=435&lines=Hello%2C+I+am+Rishil." alt="Typing SVG" /></a>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=30&pause=1000&color=F75E5D&background=84F2FF00&vCenter=true&multiline=true&width=435&lines=Learning+to+make+some+magic!" alt="Typing SVG" /></a>
 
 - 🔭 I’m currently working on **honing my craft and expanding my expertise to master new technologies and methodologies. 🌱**
 
