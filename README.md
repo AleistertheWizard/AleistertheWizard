@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Rishil</h1>
-<h3 align="center">Learning to make some magic!</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour+Convergence&pause=1000&color=F7B1B3&background=84F2FF00&center=true&vCenter=true&multiline=true&width=435&lines=Hello%2C+I+am+Rishil.;Learning+to+make+some+magic!" alt="Typing SVG" /></a>
 
 - 🔭 I’m currently working on **honing my craft and expanding my expertise to master new technologies and methodologies. 🌱**
 
