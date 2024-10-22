@@ -1,4 +1,3 @@
-<a href="https://github.com/AleisterTheWizard/AleisterTheWizard">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="BannerBlack1">
     <img alt="AleisterTheWizard's GitHub Profile README" src="BannerLight1">
