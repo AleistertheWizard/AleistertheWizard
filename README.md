@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="bannerdark.gif">
-  <img src="BannerLight1.png" alt="Banner">
+  <img src="bannerlight.gif" alt="Banner">
 </picture>
 </a>
 <p align="center" style="margin-right: 0;">
